@@ -1,0 +1,7 @@
+streamlit 
+numpy
+Image
+pyttsx3
+tempfile
+os
+logging
